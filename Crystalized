@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://github.com/fizzyscripting/nan/raw/refs/heads/main/CrystalizedOBFS"))()
+_G.NightMode = true -- Night mode is better, setting this to false will make the script looks ass
+loadstring(game:HttpGet("https://github.com/kizzysigma/nan/raw/refs/heads/main/CrystalizedOBFS"))()
